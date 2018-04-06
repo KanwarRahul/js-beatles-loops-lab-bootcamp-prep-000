@@ -1,4 +1,4 @@
-function theBeatlesPlay()
+function theBeatlesPlay(musician,instrument)
 {
   
 }
